@@ -17,7 +17,7 @@ create table contato (
     mensagem varchar(100)
 );
 
-select * from duvida;
+select * from contato;
 
 create table usuario_contato (
     usuarioId int,
