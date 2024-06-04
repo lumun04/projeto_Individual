@@ -1,0 +1,26 @@
+.footer_container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.top_footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+.bottom_footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #222;
+}
+
+.img_container_footer img {
+    max-width: 100px;
+}
+
+.list_footer {
+    list-style-type: none;
+    padding: 0;
+}
